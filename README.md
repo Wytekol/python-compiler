@@ -10,4 +10,4 @@ It's a python compiler made by me. **It's unfinished**
 # How To Compile Script
 1. Move a command line window to Folder with a script
 2. Run compile.bat (Windows), compile-linux.sh (Linux), compile-macos.sh (MacOS)
-3. # IT IS NOT YET COMPLETED!!!
+# IT IS NOT YET COMPLETED!!!
